@@ -1,0 +1,388 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: "Chapitre 0 - Scene 0 - Arriv\xE9 A l'universit\xE9"
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 3
+    location: 
+    actor: {fileID: 11400000, guid: b0be76f998676744c975cf19bbe404f9, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Enchant\xE9e et heureuse de faire enfin ta connaissance.\r\nBienvenue
+      \xE0 l\u2019universit\xE9.\r\nOn va commencer la journ\xE9e ensemble.\r\nJe
+      vais te guider pas \xE0 pas."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "All\xF4\u2026 Tu m\u2019entends ?\nC\u2019est Hitomi. On devait se
+      retrouver ce matin.\r\nJe suis d\xE9j\xE0 dans l\u2019universit\xE9\u2026 mais
+      je ne te vois pas.\r\nEst-ce que \xE7a va, tu n\u2019es pas perdu ?\n"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "D\u2019accord\u2026 je vais t\u2019aider.\r\nPour me trouver,\_ tu
+      dois d\u2019abord localiser l\u2019universit\xE9.\r\nPrends la carte Universit\xE9
+      et pose-la devant toi, sur la table. "
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-2
+    actor: {fileID: 11400000, guid: c4822420ee5d6e947a238974055817a5, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bienvenue dans le Grand Hall.\r\nC\u2019est le c\u0153ur de l\u2019universit\xE9.\r\nQuand
+      on est nouveau\u2026 c\u2019est normal de se sentir un peu impressionn\xE9
+      ici.\r\nTa premi\xE8re journ\xE9e est simple.\r\nTu as deux cours : \r\nUn
+      cours th\xE9orique\u2026\r\net un cours de combat.\r\nLe cours th\xE9orique
+      t\u2019aidera \xE0 comprendre notre monde.\r\nEt le cours de combat\u2026\r\n\u2026
+      est assez parlant, non ?\r\nMais avant tout\u2026\r\nOn va passer aux dortoirs.\r\nTu
+      dois te changer et enfiler ton uniforme.\r\nDonc prends la carte **Dortoirs**."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 6
+    location: L-2
+    actor: {fileID: 11400000, guid: c4822420ee5d6e947a238974055817a5, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "D\u2019accord\u2026 je vais t\u2019aider.\r\nPour me trouver,\_ tu
+      dois d\u2019abord localiser l\u2019universit\xE9.\r\nPrends la carte n\xB01
+      \u2014 Universit\xE9 et pose-la devant toi, sur la table. "
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Maintenant, que tu es arriv\xE9 \xE0 l\u2019universit\xE9\nutilise
+      ton t\xE9l\xE9phone pour observer l\u2019environnement sortant de la carte."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ah\u2026 je te vois !!!  \r\nSi toi aussi tu veux me voir, prends
+      la carte Hitomi\_et pose-la devant toi. "
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: E-1
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ah\u2026 je te vois !!!  \r\nSi toi aussi tu veux me voir, prends
+      la carte n\xB02 \u2014 Hitomi \_et pose-la devant toi. "
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 12
+    location: L-8
+    actor: {fileID: 11400000, guid: 126c2f630b5525047a23035f3345712b, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bienvenue dans le Grand Hall.\r\nC\u2019est le c\u0153ur de l\u2019universit\xE9.\r\nQuand
+      on est nouveau\u2026 c\u2019est normal de se sentir un peu impressionn\xE9
+      ici.\r\nTa premi\xE8re journ\xE9e est simple.\r\nTu as deux cours : \r\nUn
+      cours th\xE9orique\u2026\r\net un cours de combat.\r\nLe cours th\xE9orique
+      t\u2019aidera \xE0 comprendre notre monde.\r\nEt le cours de combat\u2026\r\n\u2026
+      est assez parlant, non ?\r\nMais avant tout\u2026\r\nOn va passer aux dortoirs.\r\nTu
+      dois te changer et enfiler ton uniforme.\r\nDonc prends la carte **Dortoirs**."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 2
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Enchant\xE9e et heureuse de faire enfin ta connaissance.\r\nBienvenue
+      \xE0 l\u2019universit\xE9.\r\nOn va commencer la journ\xE9e ensemble.\r\nJe
+      vais te guider pas \xE0 pas."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Tu es pr\xEAt \xE0 entrer \xE0 l\u2019int\xE9rieur ?\r\nPrends la
+      carte du Grand Hall et viens, on entre ensemble."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-5
+    actor: {fileID: 11400000, guid: 43667b1a80c38b24abd26ca4a0667a58, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Tu es pr\xEAt a entr\xE9 a l\u2019interieur ? \r\nPrend la carte Grand
+      Hall et Viens, on entre ensemble."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 6
+    location: 
+    actor: {fileID: 11400000, guid: 43667b1a80c38b24abd26ca4a0667a58, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte :\r\n **Carte Lieu n\xB05 \u2014 Amphith\xE9\xE2tre**
+      et **Carte Personnage \u2014 Erwan**"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 12
+    location: L-4
+    actor: {fileID: 11400000, guid: 126c2f630b5525047a23035f3345712b, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bienvenue dans le Grand Hall.\r\nC\u2019est le c\u0153ur de l\u2019universit\xE9.\r\nQuand
+      on est nouveau\u2026 c\u2019est normal de se sentir un peu impressionn\xE9
+      ici.\r\nTa premi\xE8re journ\xE9e est simple.\r\nTu as deux cours : \r\nUn
+      cours th\xE9orique\u2026\r\net un cours de combat.\r\nLe cours th\xE9orique
+      t\u2019aidera \xE0 comprendre notre monde.\r\nEt le cours de combat\u2026\r\n\u2026
+      est assez parlant, non ?\r\nMais avant tout\u2026\r\nOn va passer aux dortoirs.\r\nTu
+      dois te changer et enfiler ton uniforme.\r\nDonc prends la carte **Dortoirs**."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 1
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bienvenue dans le Grand Hall.\r\nC\u2019est le c\u0153ur de l\u2019universit\xE9.\r\nQuand
+      on est nouveau\u2026 c\u2019est normal de se sentir un peu impressionn\xE9
+      ici.\r\nTa premi\xE8re journ\xE9e est simple.\r\nTu as deux cours : \r\nUn
+      cours th\xE9orique\u2026\r\net un cours de combat.\r\nLe cours th\xE9orique
+      t\u2019aidera \xE0 comprendre notre monde.\r\nEt le cours de combat\u2026\r\n\u2026
+      est assez parlant, non ?\r\nMais avant tout\u2026\r\nOn va passer aux dortoirs.\r\nTu
+      dois te changer et enfiler ton uniforme.\r\nDonc prends la carte Dortoirs."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-4
+    actor: {fileID: 11400000, guid: 126c2f630b5525047a23035f3345712b, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bienvenue dans le Grand Hall.\r\nC\u2019est le c\u0153ur de l\u2019universit\xE9.\r\nQuand
+      on est nouveau\u2026 c\u2019est normal de se sentir un peu impressionn\xE9
+      ici.\r\nTa premi\xE8re journ\xE9e est simple.\r\nTu as deux cours : \r\nUn
+      cours th\xE9orique\u2026\r\net un cours de combat.\r\nLe cours th\xE9orique
+      t\u2019aidera \xE0 comprendre notre monde.\r\nEt le cours de combat\u2026\r\n\u2026
+      est assez parlant, non ?\r\nMais avant tout\u2026\r\nOn va passer aux dortoirs.\r\nTu
+      dois te changer et enfiler ton uniforme.\r\nDonc prends la carte **Dortoirs**."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 11400000, guid: 03d755c7271979140bb1419decc500ac, type: 2}
+  eventOnClick: []
+  init: []

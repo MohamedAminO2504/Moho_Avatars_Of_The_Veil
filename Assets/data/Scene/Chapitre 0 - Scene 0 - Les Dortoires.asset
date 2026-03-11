@@ -1,0 +1,292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - Scene 0 - Les Dortoires
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 6
+    location: 
+    actor: {fileID: 11400000, guid: 126c2f630b5525047a23035f3345712b, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte :\r\n **Carte Lieu n\xB05 \u2014 Amphith\xE9\xE2tre**
+      et **Carte Personnage \u2014 Erwan**"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Voici l\u2019entr\xE9e des dortoirs.\r\nTa chambre est pr\xEAte depuis
+      ce matin.\r\nJe te laisse aller d\xE9couvrir ton espace.\r\nChange-toi\u2026\r\nEt
+      reviens vers moi une fois pr\xEAt.\r\nQuand tu le seras, pose la Amin et on
+      verra \xE0 quel point l\u2019uniforme te convient."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: H-1
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Voici l\u2019entr\xE9e des dortoirs.\r\nTa chambre est pr\xEAte depuis
+      ce matin.\r\nJe te laisse aller d\xE9couvrir ton espace.\r\nChange-toi\u2026\r\nEt
+      reviens vers moi une fois pr\xEAt.\r\nQuand tu le seras, pose la **Carte n\xB03
+      \u2014 Amin** et on verra \xE0 quel point l\u2019uniforme te convient."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 2
+    location: L-6
+    actor: {fileID: 11400000, guid: 22a930f986c2c3d438f50ed48cf920aa, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte :\r\n **Carte Lieu n\xB05 \u2014 Amphith\xE9\xE2tre**
+      et **Carte Personnage \u2014 Erwan**"
+    typeCard: 0
+    variable: 2
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 12
+    location: L-4
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte :\r\n **Carte Lieu n\xB05 \u2014 Amphith\xE9\xE2tre**
+      et **Carte Personnage \u2014 Erwan**"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "\u2026\r\n\xC7a te va tr\xE8s bien.\r\nJe suis d\xE9sol\xE9e\u2026
+      je ne t\u2019ai m\xEAme pas demand\xE9 ton nom."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 12
+    location: L-4
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte :\r\n **Carte Lieu n\xB05 \u2014 Amphith\xE9\xE2tre**
+      et **Carte Personnage \u2014 Erwan**"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Amin.\r\nJe suis Amin.\r\nMerci pour l\u2019uniforme. Il me serre
+      un peu\u2026 mais je le trouve super."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "N\u2019h\xE9site pas \xE0 aller voir le concierge, John, plus tard.\r\nIl
+      tra\xEEne souvent pr\xE8s des dortoirs.\r\nIl pourra te faire ajuster un nouvel
+      uniforme si celui-ci est trop petit."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "D\u2019accord"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte Amphith\xE9\xE2tre et Erwan."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-6
+    actor: {fileID: 11400000, guid: 22a930f986c2c3d438f50ed48cf920aa, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bon\u2026 je pense qu\u2019il est temps d\u2019aller au cours th\xE9orique.\r\nSinon,
+      on va \xEAtre en retard.\r\nLe professeur est tr\xE8s gentil\u2026\r\nmais
+      il vaut mieux \xE9viter d\u2019abuser d\xE8s le premier jour.\r\nDonc quand
+      tu es pr\xEAt, prends la carte :\r\n **Carte Lieu n\xB05 \u2014 Amphith\xE9\xE2tre**
+      et **Carte Personnage \u2014 Erwan**"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 11400000, guid: 414c3cbd4886e82458251d3576c20c38, type: 2}
+  eventOnClick: []
+  init: []

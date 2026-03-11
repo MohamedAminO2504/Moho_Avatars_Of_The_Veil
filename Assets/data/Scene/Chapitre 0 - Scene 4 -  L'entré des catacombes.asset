@@ -1,0 +1,876 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: "Chapitre 0 - Scene 4 -  L'entr\xE9 des catacombes"
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 6
+    location: L-7
+    actor: {fileID: 11400000, guid: 22a930f986c2c3d438f50ed48cf920aa, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Si je te le disais\u2026 ce ne serait plus une \xE9preuve.\nJohn garde
+      l\u2019entr\xE9e. Il est d\xE9j\xE0 pr\xE9venu.\nDonc quand tu es pres prend
+      la carte de l'entr\xE9e des catacombes."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Amin. Bien. Tu es venu.
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Vous vouliez me voir, professeur ?
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Oui. J\u2019ai observ\xE9 quelque chose aujourd\u2019hui."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Quelque chose ?
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ta mani\xE8re d\u2019analyser avant d\u2019agir.\nCe n\u2019est pas
+      commun chez les nouveaux.\nJe vais donc te faire passer une \xE9preuve."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Une \xE9preuve\u2026 ce soir ?"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Dans les sous-sols de l\u2019universit\xE9 se trouvent les anciennes
+      catacombes."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Quel objet ?
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Si je te le disais\u2026 ce ne serait plus une \xE9preuve.\nJohn garde
+      l\u2019entr\xE9e. Il est d\xE9j\xE0 pr\xE9venu.\nDonc quand tu es pres prend
+      la carte de l'entr\xE9e des catacombes."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-7
+    actor: {fileID: 11400000, guid: 0778605287d32f34d863f36a3bc9adc7, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Si je te le disais\u2026 ce ne serait plus une \xE9preuve.\nJohn garde
+      l\u2019entr\xE9e. Il est d\xE9j\xE0 pr\xE9venu.\nDonc quand tu es pres prend
+      la carte de l'entr\xE9e des catacombes."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: G-5
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Si je te le disais\u2026 ce ne serait plus une \xE9preuve.\nJohn garde
+      l\u2019entr\xE9e. Il est d\xE9j\xE0 pr\xE9venu.\nDonc quand tu es pres prend
+      la carte de l'entr\xE9e des catacombes."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 6
+    location: L-7
+    actor: {fileID: 11400000, guid: 0778605287d32f34d863f36a3bc9adc7, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Si je te le disais\u2026 ce ne serait plus une \xE9preuve.\nJohn garde
+      l\u2019entr\xE9e. Il est d\xE9j\xE0 pr\xE9venu.\nDonc quand tu es pres prend
+      la carte de l'entr\xE9e des catacombes."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Alors c\u2019est toi le nouveau."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-7
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Oui. Le professeur Erwan m\u2019a envoy\xE9."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Je sais.\nMais tu n\u2019iras pas seul."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-7
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Pourquoi ?
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 13
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: CHERCHE_EMY
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 13
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: CHERCHE_NIN
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 13
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: CHERCHE_HITOMI
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: L-7
+    actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    actor2: {fileID: 11400000, guid: c4822420ee5d6e947a238974055817a5, type: 2}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: L-7
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 11400000, guid: 126c2f630b5525047a23035f3345712b, type: 2}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: L-7
+    actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 2
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ce qui est en bas ne fait pas la diff\xE9rence entre exercice et r\xE9alit\xE9.\nReviens
+      avec au moins deux camarades."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-7
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 0}
+    dialogue: bonjour
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 0}
+  eventOnClick:
+  - actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    condition: CHERCHE_EMY
+    steps:
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 4
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 13
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: CHERCHE_EMY
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 1
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 13
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: FIND_EMY
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 0
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  - actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+    condition: CHERCHE_NIN
+    steps:
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 4
+      location: H-3
+      actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 13
+      location: H-3
+      actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: CHERCHE_NIN
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 1
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 13
+      location: H-3
+      actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: FIND_NIN
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 0
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  - actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    condition: CHERCHE_HITOMI
+    steps:
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 4
+      location: H-4
+      actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 13
+      location: H-4
+      actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: CHERCHE_HITOMI
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 1
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 13
+      location: H-4
+      actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: FIND_HITOMI
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 0
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  - actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    condition: 
+    steps:
+    - type: 0
+      location: H-2
+      actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Nin, Hitomi, Emy ... hum vous y aller avec lui ?\nBon ok ... je
+        vous ouvre. \nTu veux rentr\xE9 maintenant ? "
+      typeCard: 0
+      variable: FIND_HITOMI
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 0
+      location: H-4
+      actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+      actor2: {fileID: 0}
+      dialogue: Lets go
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 14
+      location: H-4
+      actor: {fileID: 11400000, guid: 0778605287d32f34d863f36a3bc9adc7, type: 2}
+      actor2: {fileID: 0}
+      dialogue: Lets go
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 0
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  init: []

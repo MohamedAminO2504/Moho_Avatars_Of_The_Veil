@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - Scene 5 - Les catacombes
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps: []
+  skip: 0
+  next: {fileID: 0}
+  eventOnClick:
+  - actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    condition: COURS_COMBAT
+    steps:
+    - type: 11
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: CHOIX_EQUIPE
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 7
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 3
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 9
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  - actor: {fileID: 11400000, guid: af85b8638e325c145b9c19023022d47d, type: 2}
+    condition: COURS_COMBAT
+    steps:
+    - type: 11
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: CHOIX_EQUIPE
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: af85b8638e325c145b9c19023022d47d, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 7
+      location: H-2
+      actor: {fileID: 11400000, guid: af85b8638e325c145b9c19023022d47d, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 3
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 9
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  init: []

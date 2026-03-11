@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6738a2366c9888d49b73cf0adf77665b, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: Assembly-CSharp::Data
+  firstCard: {fileID: 11400000, guid: 743f04bdabc62cc4a92171c6bcb27c89, type: 2}
+  cards:
+  - {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+  - {fileID: 11400000, guid: c4822420ee5d6e947a238974055817a5, type: 2}
+  - {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+  - {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+  - {fileID: 11400000, guid: 43667b1a80c38b24abd26ca4a0667a58, type: 2}
+  - {fileID: 11400000, guid: 126c2f630b5525047a23035f3345712b, type: 2}
+  variables: []
+  tenuesFound:
+  - {fileID: 11400000, guid: 7c019c750f1f898428fd9e421c19a30b, type: 2}
+  - {fileID: 11400000, guid: ac347556de0800b4eaafd32cc9433991, type: 2}
+  equipes:
+  - {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+  - {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+  - {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+  - {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}

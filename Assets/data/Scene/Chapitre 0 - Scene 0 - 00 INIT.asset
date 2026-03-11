@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - Scene 0 - 00 INIT
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 7
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 11400000, guid: 22a930f986c2c3d438f50ed48cf920aa, type: 2}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 4
+    location: 
+    actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 4
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 4
+    location: 
+    actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: 
+    actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: 
+    actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+    actor2: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: 
+    actor: {fileID: 11400000, guid: 8e862661b778c5640b06bd40548ba810, type: 2}
+    actor2: {fileID: 11400000, guid: 0778605287d32f34d863f36a3bc9adc7, type: 2}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 7
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 2
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 11400000, guid: 0abd0d1f9d94ec848aa878d4c84d3730, type: 2}
+  eventOnClick: []
+  init: []

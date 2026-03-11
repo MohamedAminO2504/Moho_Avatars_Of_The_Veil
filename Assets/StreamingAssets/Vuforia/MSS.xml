@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="hall" size="428.000000 600.000000" />
+    <ImageTarget name="terrain" size="430.000000 602.000000" />
+    <ImageTarget name="cataentre" size="435.000000 608.000000" />
+    <ImageTarget name="proto" size="441.000000 617.000000" />
+    <ImageTarget name="ushiba2" size="328.000000 462.000000" />
+    <ImageTarget name="jardin" size="435.000000 609.000000" />
+    <ImageTarget name="dortoiaar" size="387.000000 556.000000" />
+    <ImageTarget name="amhpi" size="434.000000 607.000000" />
+    <ImageTarget name="john" size="433.000000 607.000000" />
+    <ImageTarget name="erwan" size="423.000000 593.000000" />
+    <ImageTarget name="Universite" size="199.000000 280.017822" />
+    <ImageTarget name="011_nin_han" size="199.000000 278.802032" />
+    <ImageTarget name="004_emy" size="199.000000 278.600006" />
+    <ImageTarget name="002_hitomi" size="199.000000 278.699005" />
+    <ImageTarget name="006_amin" size="199.000000 278.799500" />
+  </Tracking>
+</QCARConfig>

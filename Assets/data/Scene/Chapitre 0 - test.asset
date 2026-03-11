@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - test
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  name: "Chapitre 0 - Scene 0 - Arriv\xE9 A l'universit\xE9"
+  steps:
+  - type: 2
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+    scene: {fileID: 0}
+  skip: 0
+  next: {fileID: 0}
+  eventOnClick:
+  - actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    condition: 
+    steps:
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+      actor2: {fileID: 0}
+      dialogue: OOuii !
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+      scene: {fileID: 0}

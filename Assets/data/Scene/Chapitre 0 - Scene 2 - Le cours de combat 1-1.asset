@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - Scene 2 - Le cours de combat 1-1
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 6
+    location: 
+    actor: {fileID: 11400000, guid: 43667b1a80c38b24abd26ca4a0667a58, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Respiration irr\xE9guli\xE8re.\r\nAppuis instables.\r\nMais\u2026\nInstinct
+      correct.\r\nTu observes avant d\u2019agir.\r\nC\u2019est bien.\r\nLe combat
+      n\u2019est pas une question de force.\r\nC\u2019est une question de lecture.\nLe
+      combat seul forge le r\xE9flexe.\r\nLe combat en \xE9quipe forge la strat\xE9gie.\nChoisis
+      un partenaire.\r\nPose la carte Nin, Emy, William et Astrid. ."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: d05f1d24fdad349478d5d7b13fb6566b, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Le cours de combat se d\xE9roule derri\xE8re l\u2019universit\xE9.\r\nOn
+      doit sortir du b\xE2timent.\r\nC\u2019est un peu diff\xE9rent du cours d\u2019amphi\u2026\r\nMais
+      tu vas voir.\r\nPrends la carte du terrain puis prend la carte Ushiba."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: G-4
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Le cours de combat se d\xE9roule derri\xE8re l\u2019universit\xE9.\r\nOn
+      doit sortir du b\xE2timent.\r\nC\u2019est un peu diff\xE9rent du cours d\u2019amphi\u2026\r\nMais
+      tu vas voir.\r\nPrends la carte du terrain puis prend la carte Ushiba."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-3
+    actor: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Le cours de combat se d\xE9roule derri\xE8re l\u2019universit\xE9.\r\nOn
+      doit sortir du b\xE2timent.\r\nC\u2019est un peu diff\xE9rent du cours d\u2019amphi\u2026\r\nMais
+      tu vas voir.\r\nPrends la carte du terrain puis prend la carte Ushiba."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 6
+    location: 
+    actor: {fileID: 11400000, guid: 5b0bb5ebdadf698438d676d209b61c5e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Pres ? Commence le combat !
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Tout le monde en place \r\nMettez-vous deux par deux.\r\nDistance
+      d\u2019un bras.\r\nToi.\r\nTu es le nouveau.\r\nAs-tu d\xE9j\xE0 particip\xE9
+      \xE0 un combat ?"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 'Non.
+
+      Jamais.'
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Bien, je vais rester un peu avec toi.\r\nAlors nous allons commencer
+      proprement.\r\nUn adversaire simple.\r\nUn \xE9pouvantail d\u2019entra\xEEnement.\r\nIl
+      ne r\xE9fl\xE9chit pas. Il frappe.\r\nPrend la carte de l'epouvantail"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: ...
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Pres ? Commence le combat !
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 1
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: Pres ? Commence le combat !
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam:
+    - nom: 
+      pourcentage: 0
+      niveau: 0
+      bestiaire:
+      - {fileID: 11400000, guid: 12bd2862dbcc3ea409bb0a5672c3e217, type: 2}
+    battleType: 1
+  skip: 0
+  next: {fileID: 11400000, guid: d05f1d24fdad349478d5d7b13fb6566b, type: 2}
+  eventOnClick: []
+  init: []

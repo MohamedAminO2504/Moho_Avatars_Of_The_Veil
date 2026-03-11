@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - test init
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 0
+    location: G-1
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: sfgsfdgs
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-4
+    actor: {fileID: 11400000, guid: 43667b1a80c38b24abd26ca4a0667a58, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: L-1
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: G-1
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: dfqdsf
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: L-3
+    actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    actor2: {fileID: 0}
+    dialogue: dfqsdfq
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 2
+    location: G-1
+    actor: {fileID: 11400000, guid: 0778605287d32f34d863f36a3bc9adc7, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 2
+    location: G-1
+    actor: {fileID: 11400000, guid: 0778605287d32f34d863f36a3bc9adc7, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 11400000, guid: 8f35542656200784ab5d2d0cdf5310fa, type: 2}
+  eventOnClick: []
+  init: []

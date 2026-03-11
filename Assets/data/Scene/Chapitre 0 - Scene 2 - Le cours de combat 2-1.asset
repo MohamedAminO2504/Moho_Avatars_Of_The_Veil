@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - Scene 2 - Le cours de combat 2-1
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Respiration irr\xE9guli\xE8re.\r\nAppuis instables.\r\nMais\u2026\nInstinct
+      correct.\r\nTu observes avant d\u2019agir.\r\nC\u2019est bien.\r\nLe combat
+      n\u2019est pas une question de force.\r\nC\u2019est une question de lecture.\nLe
+      combat seul forge le r\xE9flexe.\r\nLe combat en \xE9quipe forge la strat\xE9gie.\nChoisis
+      un partenaire.\r\nPose la carte Nin et  Emy."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: F-1
+    actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Respiration irr\xE9guli\xE8re.\r\nAppuis instables.\r\nMais\u2026\nInstinct
+      correct.\r\nTu observes avant d\u2019agir.\r\nC\u2019est bien.\r\nLe combat
+      n\u2019est pas une question de force.\r\nC\u2019est une question de lecture.\nLe
+      combat seul forge le r\xE9flexe.\r\nLe combat en \xE9quipe forge la strat\xE9gie.\nChoisis
+      un partenaire.\r\nPose la carte Nin, Emy, William et Astrid. ."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: F-2
+    actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Respiration irr\xE9guli\xE8re.\r\nAppuis instables.\r\nMais\u2026\nInstinct
+      correct.\r\nTu observes avant d\u2019agir.\r\nC\u2019est bien.\r\nLe combat
+      n\u2019est pas une question de force.\r\nC\u2019est une question de lecture.\nLe
+      combat seul forge le r\xE9flexe.\r\nLe combat en \xE9quipe forge la strat\xE9gie.\nChoisis
+      un partenaire.\r\nPose la carte Nin, Emy, William et Astrid. ."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Le premier \xE0 qui tu t\u2019adresses sera ton co\xE9quipier.\r\nChoisis
+      avec attention.\r\nEn situation r\xE9elle, on ne choisit pas toujours.\r\nMais
+      ici\u2026 tu peux."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 13
+    location: G-2
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Meilleur.\r\nTu adaptes rapidement. \nEt travail d\u2019\xE9quipe
+      acceptable.\r\n\xC0 perfectionner.\n\nLe cours est terminer vous pouvez vaquer
+      \xE0 vos occupations."
+    typeCard: 0
+    variable: COURS_COMBAT
+    cara:
+      hp: 100
+      hpMax: 100
+      atk: 1
+      def: 2
+      vit: 3
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 2
+    location: 
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Le premier \xE0 qui tu t\u2019adresses sera ton co\xE9quipier.\r\nChoisis
+      avec attention.\r\nEn situation r\xE9elle, on ne choisit pas toujours.\r\nMais
+      ici\u2026 tu peux."
+    typeCard: 0
+    variable: COURS_COMBAT
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 0
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: G-2
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 'Battle ! '
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 100
+      hpMax: 100
+      atk: 1
+      def: 2
+      vit: 3
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 1
+    location: G-2
+    actor: {fileID: 11400000, guid: c36efa78bffe3d7428a2536ba5c08eef, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 'Battle ! '
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 100
+      hpMax: 100
+      atk: 1
+      def: 2
+      vit: 3
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam:
+    - nom: 
+      pourcentage: 0
+      niveau: 0
+      bestiaire:
+      - {fileID: 11400000, guid: 12bd2862dbcc3ea409bb0a5672c3e217, type: 2}
+      - {fileID: 11400000, guid: c36efa78bffe3d7428a2536ba5c08eef, type: 2}
+    battleType: 1
+  - type: 0
+    location: G-2
+    actor: {fileID: 11400000, guid: e3501b7e54af83643b842e4f4a236b5a, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Meilleur.\r\nTu adaptes rapidement. \nEt travail d\u2019\xE9quipe
+      acceptable.\r\n\xC0 perfectionner.\n\nLe cours est terminer vous pouvez vaquer
+      \xE0 vos occupations."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 100
+      hpMax: 100
+      atk: 1
+      def: 2
+      vit: 3
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 11400000, guid: 02b91b0a98bfcbf4ea3ffb80c172d28f, type: 2}
+  eventOnClick:
+  - actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+    condition: COURS_COMBAT
+    steps:
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 4
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 2
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 1
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  - actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+    condition: COURS_COMBAT
+    steps:
+    - type: 11
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: CHOIX_EQUIPE
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 0
+      location: 
+      actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 7
+      location: H-3
+      actor: {fileID: 11400000, guid: e1e4ef3c4f5fada44b4010ec7a61fc8b, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 3
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    - type: 9
+      location: H-2
+      actor: {fileID: 11400000, guid: 6846c73d51785d240a2846b6de5c1e21, type: 2}
+      actor2: {fileID: 0}
+      dialogue: "Oh tu veux faire equipe avec moi ? \nTrop bien ! "
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+        mag: 0
+        esp: 0
+      scene: {fileID: 0}
+      state: 2
+      look: 0
+      battleParam: []
+      battleType: 0
+    played: 0
+  init: []

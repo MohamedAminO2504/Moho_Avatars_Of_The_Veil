@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdd9887e20f6984f999342af4f3e8b7, type: 3}
+  m_Name: Chapitre 0 - Scene 1 - Le cours de theorie
+  m_EditorClassIdentifier: Assembly-CSharp::Scene
+  steps:
+  - type: 6
+    location: 
+    actor: {fileID: 11400000, guid: 22a930f986c2c3d438f50ed48cf920aa, type: 2}
+    actor2: {fileID: 11400000, guid: 22a930f986c2c3d438f50ed48cf920aa, type: 2}
+    dialogue: "Amin.\r\nJe devais m\u2019entretenir avec toi.\r\nMais je ne peux
+      pas maintenant.\r\nJ\u2019ai une r\xE9union importante avec l\u2019administration.\nPasse
+      me voir en fin de journ\xE9e.\r\nJe te donnerai quelques travaux suppl\xE9mentaires
+      pour combler ton retard.\r\nRien d\u2019alarmant. Simplement n\xE9cessaire.\r\nBienvenue
+      parmi nous."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 11400000, guid: 6a3fcf5447f065748a0a7e2b70ae9a39, type: 2}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 3
+    location: G-3
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Ah. Parfait.\nHitomi\u2026 toujours ponctuelle."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 12
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Amin.\r\nJe devais m\u2019entretenir avec toi.\r\nMais je ne peux
+      pas maintenant.\r\nJ\u2019ai une r\xE9union importante avec l\u2019administration.\nPasse
+      me voir en fin de journ\xE9e.\r\nJe te donnerai quelques travaux suppl\xE9mentaires
+      pour combler ton retard.\r\nRien d\u2019alarmant. Simplement n\xE9cessaire.\r\nBienvenue
+      parmi nous."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 3
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Et j\u2019imagine que nous avons ici notre nouvel \xE9tudiant.\nChers
+      \xE9tudiants.\r\nNous accueillons aujourd\u2019hui Amin.\r\nJe compte sur vous
+      pour lui r\xE9server un accueil convenable.\nAlors. Amin.\r\nDis moi d\u2019o\xF9
+      viens-tu ?"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Je viens d\u2019une petite ville au nord. Je suis arriv\xE9 sur Lille
+      hier."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Oh je vois tu n\u2019est pas un etudiant international alors. Pourrais
+      tu te present\xE9 bri\xE8vement \xE0 la classe"
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Je m\u2019appelle Amin.\r\nMon potentiel a \xE9t\xE9 d\xE9tect\xE9
+      assez r\xE9cemment.\r\nJe ne savais m\xEAme pas que j\u2019en avais un."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Hm.\r\nD\xE9couverte tardive.\r\nInt\xE9ressant. \r\nBref nous allons
+      commencer, vous pouvez aller vous asseoir."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Commen\xE7ons.\r\nLe monde dans lequel nous vivons vous semble ordinaire.\r\nIl
+      ne l\u2019est pas.\r\nDepuis plusieurs d\xE9cennies, certains individus naissent
+      avec des capacit\xE9s que la science ne sait pas expliquer.\r\nCes capacit\xE9s
+      ont d\u2019abord \xE9t\xE9 craintes.\r\nPuis \xE9tudi\xE9es.\r\nEt finalement\u2026
+      organis\xE9es.\r\nLes gouvernements ont compris qu\u2019il \xE9tait plus judicieux
+      d\u2019encadrer ces individus plut\xF4t que de les combattre.\r\nAujourd\u2019hui,
+      ces personnes sont int\xE9gr\xE9es aux structures \xE9tatiques.\r\nElles conseillent.\r\nN\xE9gocient.\r\nDissuadent.\r\nEt
+      parfois\u2026\r\ninterviennent.\r\nLa magie n\u2019est pas un mythe.\r\nCe
+      n\u2019est pas non plus un privil\xE8ge.\r\nC\u2019est une responsabilit\xE9.\r\nC\u2019est
+      pour cela que cette universit\xE9 existe.\r\nFormer. Encadrer. Stabiliser.\r\nUn
+      pouvoir non ma\xEEtris\xE9 est plus dangereux que l\u2019absence de pouvoir.\r\nSouvenez-vous
+      de cela."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 31d7ac23f4526404588170d3e411afdb, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 'C''etait interessant non ? '
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 3237c00a8cd42654690e5c9bba348c0e, type: 2}
+    actor2: {fileID: 0}
+    dialogue: 'Oui ... '
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  - type: 0
+    location: 
+    actor: {fileID: 11400000, guid: 4ba6ffe56ef870b45bced7533be3f254, type: 2}
+    actor2: {fileID: 0}
+    dialogue: "Amin.\r\nJe devais m\u2019entretenir avec toi.\r\nMais je ne peux
+      pas maintenant.\r\nJ\u2019ai une r\xE9union importante avec l\u2019administration.\nPasse
+      me voir en fin de journ\xE9e.\r\nJe te donnerai quelques travaux suppl\xE9mentaires
+      pour combler ton retard.\r\nRien d\u2019alarmant. Simplement n\xE9cessaire.\r\nBienvenue
+      parmi nous."
+    typeCard: 0
+    variable: 
+    cara:
+      hp: 0
+      hpMax: 0
+      atk: 0
+      def: 0
+      vit: 0
+      mag: 0
+      esp: 0
+    scene: {fileID: 0}
+    state: 2
+    look: 0
+    battleParam: []
+    battleType: 0
+  skip: 0
+  next: {fileID: 11400000, guid: 6a3fcf5447f065748a0a7e2b70ae9a39, type: 2}
+  eventOnClick: []
+  init: []
