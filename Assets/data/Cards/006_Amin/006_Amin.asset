@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d8626779851d044b40e01c9d1fc68c, type: 3}
+  m_Name: 006_Amin
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  nom: Amin
+  numero: 1
+  ordre: 1
+  image: {fileID: 21300000, guid: bef05fef097671e48a36aee49382b414, type: 3}
+  model: {fileID: 0}
+  m3d: {fileID: 3529725000363698054, guid: 116130bf5568ad4499ff667d58870171, type: 3}
+  donjon: {fileID: 0}
+  portrait:
+    basic: {fileID: 21300000, guid: 759c5720c4ebc644c95e0135e2d9a99f, type: 3}
+    head_talk: {fileID: 21300000, guid: 759c5720c4ebc644c95e0135e2d9a99f, type: 3}
+    head_battle: {fileID: 21300000, guid: 759c5720c4ebc644c95e0135e2d9a99f, type: 3}
+  type: 0
+  cardAR: {fileID: 175229577521873966, guid: bfb061560e20c514e95c4d1a2a5b18a4, type: 3}
+  cara:
+    hp: 85
+    hpMax: 85
+    atk: 15
+    def: 5
+    vit: 5
+    mag: 0
+    esp: 0
+  spells:
+    spell1: {fileID: 11400000, guid: 3c6a11dda1411034ea5bcf1873914153, type: 2}
+    spell2: {fileID: 0}
+    spell3: {fileID: 0}
+  models3d:
+  - type: 0
+    model: {fileID: 2226956690924155355, guid: 95b6577847d63f04a8171e6d50118069, type: 3}
+    image: {fileID: 21300000, guid: 97b201851d062ab448f32cf04c279b68, type: 3}
+    portrait: {fileID: 0}
+  - type: 1
+    model: {fileID: 6237331698336606489, guid: 116130bf5568ad4499ff667d58870171, type: 3}
+    image: {fileID: 21300000, guid: 20144c55d371c0748a103f1872a2ed1a, type: 3}
+    portrait: {fileID: 0}
+  - type: 2
+    model: {fileID: 8320600573020138199, guid: 2051a2c14b3119e47b6c4cc14de9de66, type: 3}
+    image: {fileID: 21300000, guid: 69801cc98ef833d48a9aba7d4b64b766, type: 3}
+    portrait: {fileID: 0}
+  where: {fileID: 0}
+  active: 1
+  currentTenue: {fileID: 11400000, guid: 7c019c750f1f898428fd9e421c19a30b, type: 2}
+  tenues:
+  - {fileID: 11400000, guid: 7c019c750f1f898428fd9e421c19a30b, type: 2}
+  - {fileID: 11400000, guid: 74a01af7b42efc845a71c031026f1ef6, type: 2}
+  - {fileID: 11400000, guid: ac347556de0800b4eaafd32cc9433991, type: 2}

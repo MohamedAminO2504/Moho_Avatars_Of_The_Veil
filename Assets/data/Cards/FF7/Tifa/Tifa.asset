@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d8626779851d044b40e01c9d1fc68c, type: 3}
+  m_Name: Tifa
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  numero: 0
+  image: {fileID: 21300000, guid: 378d0a00a76fc384c91f5c9fd3146b0e, type: 3}
+  model: {fileID: 21300000, guid: d2b394ea52554f54bb4b060406ff4007, type: 3}
+  m3d: {fileID: 682106010394999369, guid: f38966a87b7fe7e4291046e8265bfbb7, type: 3}
+  portrait:
+    basic: {fileID: 0}
+    head_talk: {fileID: 0}
+    head_battle: {fileID: 21300000, guid: d93130c91bda35d4ab4336051075fda2, type: 3}
+  type: 0
+  cara:
+    hp: 15
+    hpMax: 40
+    atk: 6
+    def: 4
+    vit: 8
+  spells:
+    spell1: {fileID: 11400000, guid: 87df337d39655c645b3c7846683c66af, type: 2}
+    spell2: {fileID: 11400000, guid: a4de882f5108c974e83c62e205c1e222, type: 2}
+    spell3: {fileID: 11400000, guid: 9c9791d0c46835d43a95e5ff82b3c772, type: 2}

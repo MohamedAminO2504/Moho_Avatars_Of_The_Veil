@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 015_Epouvantail
+  m_Controller: {fileID: 9100000, guid: 816c0629dfe5387429aacbc5dc8c2470, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 75034dda1c3a03d46b910095d1c8b38e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d02a6151662c5e1449dbeee51c65147b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 05347ef7b678efc42897c37234f8ca15, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2177bd0aa4e277f4a8c820f263f32d3d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d27ee5825e217a43852eac2f364b080, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c1857e4094b87fe40a724b81e470c20d, type: 3}

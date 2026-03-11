@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d8626779851d044b40e01c9d1fc68c, type: 3}
+  m_Name: 015_Epouvantail
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  nom: Epouvantail
+  numero: 0
+  image: {fileID: 21300000, guid: 9b4e6e50eaaeda1448fbd9e87437e91b, type: 3}
+  model: {fileID: 0}
+  m3d: {fileID: 5519684130263044080, guid: b91408adb16909448847c3fd29669d4c, type: 3}
+  portrait:
+    basic: {fileID: 21300000, guid: 86c2173db570cf64d8d2ed113a439315, type: 3}
+    head_talk: {fileID: 21300000, guid: 86c2173db570cf64d8d2ed113a439315, type: 3}
+    head_battle: {fileID: 21300000, guid: 86c2173db570cf64d8d2ed113a439315, type: 3}
+  type: 3
+  cara:
+    hp: -18
+    hpMax: 300
+    atk: 1
+    def: 5
+    vit: 5
+  spells:
+    spell1: {fileID: 11400000, guid: 3c6a11dda1411034ea5bcf1873914153, type: 2}
+    spell2: {fileID: 0}
+    spell3: {fileID: 0}
+  models3d: []
+  where: {fileID: 0}

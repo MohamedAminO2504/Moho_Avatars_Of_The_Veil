@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98d8626779851d044b40e01c9d1fc68c, type: 3}
+  m_Name: Barret
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  numero: 0
+  image: {fileID: 21300000, guid: 7b782bc97dd874041a642e852d6ba87c, type: 3}
+  model: {fileID: 21300000, guid: 243eb9902c3db24468d8febe3303e721, type: 3}
+  m3d: {fileID: 8233654777905048364, guid: dd6f6b8a66fae5e44ab78bd0f2634e92, type: 3}
+  portrait:
+    basic: {fileID: 21300000, guid: 82e3d8e523dfb68438f0213da0e771d8, type: 3}
+    head_talk: {fileID: 21300000, guid: 82e3d8e523dfb68438f0213da0e771d8, type: 3}
+    head_battle: {fileID: 21300000, guid: 82e3d8e523dfb68438f0213da0e771d8, type: 3}
+  type: 0
+  cara:
+    hp: 70
+    hpMax: 70
+    atk: 7
+    def: 7
+    vit: 4
+  spells:
+    spell1: {fileID: 11400000, guid: 3c6a11dda1411034ea5bcf1873914153, type: 2}
+    spell2: {fileID: 11400000, guid: a4de882f5108c974e83c62e205c1e222, type: 2}
+    spell3: {fileID: 11400000, guid: 9c9791d0c46835d43a95e5ff82b3c772, type: 2}
+  eventOnClick:
+  - condition: DEBUT
+    steps:
+    - type: 0
+      actor: {fileID: 11400000}
+      dialogue: "Voila deux soldats ! \nA toi de t'en occup\xE9 ..."
+      typeCard: 0
+      variable: 
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+    - type: 12
+      actor: {fileID: 11400000}
+      dialogue: 'TEST
+
+        TEST 2'
+      typeCard: 0
+      variable: DEBUT
+      cara:
+        hp: 0
+        hpMax: 0
+        atk: 0
+        def: 0
+        vit: 0
+    - type: 6
+      actor: {fileID: 11400000, guid: 50528a9a0b8b94f41ad12bf9045bc203, type: 2}
+      dialogue: 'TEST
+
+        TEST 2'
+      typeCard: 0
+      variable: DEBUT
+      cara:
+        hp: 50
+        hpMax: 50
+        atk: 3
+        def: 5
+        vit: 3
+    - type: 6
+      actor: {fileID: 11400000, guid: 1b3ffcbc1495baf4395cfd85cae7577f, type: 2}
+      dialogue: 'TEST
+
+        TEST 2'
+      typeCard: 0
+      variable: DEBUT
+      cara:
+        hp: 60
+        hpMax: 60
+        atk: 5
+        def: 6
+        vit: 3
+    - type: 1
+      actor: {fileID: 11400000, guid: 1b3ffcbc1495baf4395cfd85cae7577f, type: 2}
+      dialogue: 'TEST
+
+        TEST 2'
+      typeCard: 0
+      variable: DEBUT
+      cara:
+        hp: 60
+        hpMax: 60
+        atk: 5
+        def: 6
+        vit: 3
+    - type: 3
+      actor: {fileID: 11400000, guid: 1b3ffcbc1495baf4395cfd85cae7577f, type: 2}
+      dialogue: 'TEST
+
+        TEST 2'
+      typeCard: 0
+      variable: WIN_BATTEL_1
+      cara:
+        hp: 60
+        hpMax: 60
+        atk: 5
+        def: 6
+        vit: 3

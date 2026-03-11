@@ -61,7 +61,7 @@ public enum TypeCard{
 }
 
 [System.Serializable]
-public struct  Caracteristique{
+public struct Caracteristique{
     public int hp;
     public int hpMax;
     public int atk;
@@ -69,6 +69,7 @@ public struct  Caracteristique{
     public int vit;
     public int mag;
     public int esp;
+    public string name;
 }
 
 [System.Serializable]
