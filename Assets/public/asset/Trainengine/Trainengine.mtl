@@ -1,0 +1,116 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.05.2019 23:40:27
+
+newmtl _TrainengineMaterial_00007d
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng.png
+	map_Kd NVTrainEng.png
+	map_bump nvtraineng_n.png
+	bump nvtraineng_n.png
+
+newmtl _TrainengineMaterial_001dc5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng.png
+	map_Kd NVTrainEng.png
+	map_bump nvtraineng_n.png
+	bump nvtraineng_n.png
+
+newmtl _TrainengineMaterial_003b0d
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng.png
+	map_Kd NVTrainEng.png
+	map_bump nvtraineng_n.png
+	bump nvtraineng_n.png
+
+newmtl _TrainengineMaterial_0053f5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng.png
+	map_Kd NVTrainEng.png
+	map_bump nvtraineng_n.png
+	bump nvtraineng_n.png
+
+newmtl _TrainengineMaterial_005f7d
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2392 0.3216 0.3882
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng02.png
+	map_Kd NVTrainEng02.png
+	map_d nvtraineng02_alpha.png
+	map_bump nvtraineng02_n.png
+	bump nvtraineng02_n.png
+
+newmtl _TrainengineMaterial_0060b1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng03.png
+	map_Kd NVTrainEng03.png
+	map_d nvtraineng03_alpha.png
+	map_bump nvtraineng03_n.png
+	bump nvtraineng03_n.png
+
+newmtl _TrainengineMaterial_0060bd
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka NVTrainEng.png
+	map_Kd NVTrainEng.png
+	map_bump nvtraineng_n.png
+	bump nvtraineng_n.png

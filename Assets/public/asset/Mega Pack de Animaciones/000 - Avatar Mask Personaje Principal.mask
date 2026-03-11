@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 000 - Avatar Mask Personaje Principal
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cabello
+    m_Weight: 1
+  - m_Path: Cuerpo
+    m_Weight: 1
+  - m_Path: Esqueleto
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ceja_Der_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ceja_Der_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ceja_Der_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ceja_Izq_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ceja_Izq_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ceja_Izq_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Cen
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Der_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Der_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Der_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Izq_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Izq_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Labio_Sup_Izq_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Cen
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Der_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Der_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Der_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Izq_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Izq_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Labio_Inf_Izq_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Lengua_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Lengua_1/Lengua_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Mandivula/Lengua_1/Lengua_2/Lengua_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Megilla_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Megilla_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ojo_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Ojo_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Parpado_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Cuello/Cabeza/Parpado_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Funda_Esp
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Arma_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_1_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_1_1/Dedo_Der_1_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_1_1/Dedo_Der_1_2/Dedo_Der_1_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_1_1/Dedo_Der_1_2/Dedo_Der_1_3/Dedo_Der_1_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_2_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_2_1/Dedo_Der_2_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_2_1/Dedo_Der_2_2/Dedo_Der_2_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_2_1/Dedo_Der_2_2/Dedo_Der_2_3/Dedo_Der_2_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_3_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_3_1/Dedo_Der_3_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_3_1/Dedo_Der_3_2/Dedo_Der_3_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_3_1/Dedo_Der_3_2/Dedo_Der_3_3/Dedo_Der_3_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_4_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_4_1/Dedo_Der_4_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_4_1/Dedo_Der_4_2/Dedo_Der_4_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_4_1/Dedo_Der_4_2/Dedo_Der_4_3/Dedo_Der_4_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_5_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_5_1/Dedo_Der_5_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_5_1/Dedo_Der_5_2/Dedo_Der_5_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Der/Brazo_Der/Antebrazo_Der/Mano_Der/Dedo_Der_5_1/Dedo_Der_5_2/Dedo_Der_5_3/Dedo_Der_5_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Arma_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_1_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_1_1/Dedo_Izq_1_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_1_1/Dedo_Izq_1_2/Dedo_Izq_1_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_1_1/Dedo_Izq_1_2/Dedo_Izq_1_3/Dedo_Izq_1_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_2_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_2_1/Dedo_Izq_2_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_2_1/Dedo_Izq_2_2/Dedo_Izq_2_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_2_1/Dedo_Izq_2_2/Dedo_Izq_2_3/Dedo_Izq_2_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_3_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_3_1/Dedo_Izq_3_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_3_1/Dedo_Izq_3_2/Dedo_Izq_3_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_3_1/Dedo_Izq_3_2/Dedo_Izq_3_3/Dedo_Izq_3_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_4_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_4_1/Dedo_Izq_4_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_4_1/Dedo_Izq_4_2/Dedo_Izq_4_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_4_1/Dedo_Izq_4_2/Dedo_Izq_4_3/Dedo_Izq_4_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_5_1
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_5_1/Dedo_Izq_5_2
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_5_1/Dedo_Izq_5_2/Dedo_Izq_5_3
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Espina_1/Espina_2/Espina_3/Hombro_Izq/Brazo_Izq/Antebrazo_Izq/Mano_Izq/Dedo_Izq_5_1/Dedo_Izq_5_2/Dedo_Izq_5_3/Dedo_Izq_5_4
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Funda_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Funda_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Gluteo_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Gluteo_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Der/Rodilla_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Der/Rodilla_Der/Pie_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Der/Rodilla_Der/Pie_Der/Dedos_Pie_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Der/Rodilla_Der/Pie_Der/Dedos_Pie_Der/Punta_Dedos_Pie_Der
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Izq/Rodilla_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Izq/Rodilla_Izq/Pie_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Izq/Rodilla_Izq/Pie_Izq/Dedos_Pie_Izq
+    m_Weight: 1
+  - m_Path: Esqueleto/Cadera/Pierna_Izq/Rodilla_Izq/Pie_Izq/Dedos_Pie_Izq/Punta_Dedos_Pie_Izq
+    m_Weight: 1
